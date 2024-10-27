@@ -18,15 +18,11 @@ The data used for analysis in this report are obtained from the following papers
 - Lynch, M. et al. (2017). Membranes and their role in cellular compartmentalization.
 - Schavemaker, P. et al. (2022). The role of compartmentalization in cellular function.
 
-## Code
-
-Data analysis and visualization are done using Python and R. The code for data analysis and visualization can be found in this repository.
-
 ## Structure
 
 - `data/`: Contains the raw data files used for analysis.
-- `scripts/`: Contains the Python and R scripts used for data analysis and visualization.
-- `figures/`: Contains the generated figures used in the report.
+- `plots.ipynb`: The Jupyter notebook used for data analysis and visualization.
+- `results/img/`: Contains the sample figures
 
 ## Usage
 
@@ -82,4 +78,4 @@ Some of the results are shown below:
 
 ## Contact
 
-For any questions or issues, please contact Eric Xin at [me@ericxin.eu](mailto:me@ericxin.eu). If there is any issue with the data or code, please open an issue in this repository.
+For any questions or issues, please contact me at [me@ericxin.eu](mailto:me@ericxin.eu). If there is any issue with the data or code, please open an issue in this repository.
