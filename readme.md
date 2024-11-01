@@ -53,7 +53,7 @@ The data used for analysis in this report are obtained from the following papers
 
 ### installation guide
 ```sh
-pip install matplotlib numpy pandas scipy jupyter
+pip install -r requirements.txt
 ```
 
 ## Sample Results
@@ -75,6 +75,9 @@ Some of the results are shown below:
 
 - Lynch, M. et al. (2017). Membranes and their role in cellular compartmentalization.
 - Schavemaker, P. et al. (2022). The role of compartmentalization in cellular function.
+
+## License
+This repository is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
